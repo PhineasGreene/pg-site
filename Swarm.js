@@ -106,7 +106,7 @@ Fish.prototype.overlap=function(){
 
 var fish=[];
 
-for(var i=0; i<10000; i++){
+for(var i=0; i<1000; i++){
 	fish.push(new Fish());
 }
 
